@@ -27,7 +27,9 @@ Solutions are implemented and tested locally using Visual Studio Code and submit
 leetcode-solutions/
 ├── Arrays-Strings/
 │   ├── 01-two-sum.cpp
-│   └── 01-two-sum.md
+│   ├── 01-two-sum.md
+│   ├── 02-valid-anagram.cpp
+│   └── 02-valid-anagram.md
 ├── Basic-Algorithms/
 ├── Stacks/
 ├── Linked-Lists/
@@ -37,9 +39,10 @@ leetcode-solutions/
 
 ## Completed Problems
 
-| No. | Problem | Topic            | Language |
-| --- | ------- | ---------------- | -------- |
-| 1   | Two Sum | Arrays & Strings | C++      |
+| No. | Problem       | Topic            | Language |
+| --- | ------------- | ---------------- | -------- |
+| 1   | Two Sum       | Arrays & Strings | C++      |
+| 2   | Valid Anagram | Arrays & Strings | C++      |
 
 ## Learning Goals
 
